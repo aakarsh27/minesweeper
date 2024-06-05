@@ -21,4 +21,5 @@ You can continue digging until either you hit a bomb (which is game over) or you
 This repo contains two files:
 - minesweeper.py: implementation of minesweeper
 - minesweeper_empty.py: empty code template for you to start somewhere :)
+- 
 Programmer Beast Mode Spotify playlist: https://open.spotify.com/playlist/4Akns5EUb3gzmlXIdsJkPs?si=qGc4ubKRRYmPHAJAIrCxVQ 
